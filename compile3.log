@@ -1,0 +1,11 @@
+src/main/java/adomlogistics/App.java:10: error: cannot find symbol
+        VehicleService vehicleService = new VehicleService("vehicles.txt");
+        ^
+  symbol:   class VehicleService
+  location: class App
+src/main/java/adomlogistics/App.java:10: error: cannot find symbol
+        VehicleService vehicleService = new VehicleService("vehicles.txt");
+                                            ^
+  symbol:   class VehicleService
+  location: class App
+2 errors
