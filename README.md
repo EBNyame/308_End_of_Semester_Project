@@ -1,4 +1,4 @@
-# 308_End_of_Semester_Project
+# 308 End of Semester Project
 # 🚛 Adom Logistics Fleet Management and Delivery System
 
 Adom Logistics, based in Tema, Ghana, faced challenges due to manual record-keeping for managing fleet operations. This console-based, offline system was developed to automate and streamline vehicle tracking, driver assignments, maintenance schedules, and delivery tracking without relying on external libraries or APIs.
